@@ -1,7 +1,10 @@
+# **Call for contributor(paper summary,dataset generation,algorithm implementation and any other useful resources)**
+
+
 # awesome-ocr
 
- A curated list of promising OCR resources
-
+ A curated list of promising OCR resources           
+ 
 
 
 ## Librarys
@@ -301,7 +304,6 @@ https://github.com/cisocrgroup
 ## Discussion and Feedback
 
 欢迎扫码加入 参与讨论分享 过期请添加个人微信 edwin_whs
-![](https://user-images.githubusercontent.com/2363295/34026309-0d1f4e8e-e190-11e7-8415-c73405cb25e7.jpeg){:height="50%" width="50%"}
 
              
 

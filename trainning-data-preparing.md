@@ -1,6 +1,20 @@
 # 训练数据的准备（trainning data  preparing）       
 
 
+tools
+
+*  https://github.com/xiaomaxiao/text_renderer
+
+* https://github.com/YoungMiao/synthdata-zh
+
+* https://github.com/szad670401/OCR_CharGen
+
+* https://github.com/Heisenberg0391/TextImageGenerator
+
+* https://github.com/JarveeLee/SynthText_Chinese_version
+
+* https://github.com/Belval/TextRecognitionDataGenerator
+
 
 ## 印刷文本(printed document)        
 
@@ -43,5 +57,4 @@
 
 
 ### 胶片中的文字
-
 
