@@ -9,6 +9,8 @@
 
 ## Librarys
 
+* [Free Offline OCR 离线的文本识别SDK https://github.com/myhub/tr ](https://github.com/myhub/tr)
+
 * [百度api store](http://apistore.baidu.com/astore/servicesearch?word=ocr&searchType=null)
 ```
 有2个api
@@ -270,6 +272,11 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 3，批量操作方便。对于版式雷同的年鉴，将一页的版式设计好，便可以应用到其他页，省去大量重复操作。
 4，可以保持原有表格格式，省去二次编辑。跨页识别表格时，选择“识别为EXCEL”，ABBYY可以将表格连在一起，产出的是一整个excel文件，分析起来就方便多了。
 5，包括梯形校正，歪斜校正之类的许多图片校正方式，即使扫描得歪了，或者因为书本太厚而导致靠近书脊的部分文字扭曲，都可以校正回来。
+```
+
+* [Cloudmersive OCR](https://cloudmersive.com/ocr-api)
+```
+Convert scanned images of documents into rich text with advanced Deep Learning OCR APIs. Free forever plans available.
 ```
 
 * IRIS               
